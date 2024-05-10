@@ -1,0 +1,4 @@
+#Mon Aug 15 18:03:29 PKT 2022
+base.0=/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

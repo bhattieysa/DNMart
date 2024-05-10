@@ -1,0 +1,413 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/ec658c1e41a5d5a9b382bb66b497920d/transformed/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/3e4d84c1701f9e2275b63f13083e0482/transformed/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/Eysa/.gradle/caches/transforms-3/5587a26b0c7a4237749f663d641ac7b9/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/90d3a83ab63b3fbafd773583db39576f/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Eysa/.gradle/caches/transforms-3/308fecb85902ff0a8c6d1a342c37600e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/a4116182ba35f0c6c6280dff52d1e642/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/1b8e0c2582c22b3f08859ffea84ede7b/transformed/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/324f45857cd02ee2d2ce88b8447ee9ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/59c76c0c13e2b740a85bb23bb97250e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/608b0021c15c9fb4b6a7b9b2ff7367e9/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/8fcf5bf596fabcbb17081cbe34d8af40/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/79f7622d0e831c7b9de33e2e0cdaaea0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/2984b62c5ce5016519714ba06acdfdbf/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9e0f9e995c3f03bf0e08dbd39c20657d/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/Eysa/.gradle/caches/transforms-3/e6083f63c5a2659a83cd8f3335c7c37a/transformed/jetified-circleimageview-3.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/Eysa/.gradle/caches/transforms-3/fdaf907ce6158316b86ccbd103272c27/transformed/jetified-volley-1.1.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/0d42b00c22928e6f291eda8292ecb35a/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/eccd43b9d12bc100e542ba79bbe213e4/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:2:1-11:12
+MERGED from [it.xabaras.android:recyclerview-swipedecorator:1.2.2] /Users/Eysa/.gradle/caches/transforms-3/001aea97f5df7a39e07b929ddb1494d6/transformed/jetified-recyclerview-swipedecorator-1.2.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/efd44cecc04fcbfd2dfc699ca668cfdf/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/31c074c27c2793e02e17519bf8964e79/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e2d16c1f6ba7b9dee9f36de36f1ba8ed/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/aea15b11356f0bbc50a564378f02bffa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e900da9b54c99120792cf5d92416ef15/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/a4a58b42a047b920b178d704766f9f27/transformed/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/323ef09dfe1d4e689f40384edef8076d/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/5c5b4047522f4f6eade6a78b69af3d0d/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/7c25f064b7286c2b1c13dcca4389bb0b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/18ea637f97eab1d6abe775877f13713b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/d5e69d9c40365f0afd3d953963be933f/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/af45bdfb51d1d461e6e5768845a0ea0d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/bd30eddd213861858ec59c1c3c2121b4/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/ccc9e3a3fba657d34ede22eb212acad2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/50c6fa630302e3f13f503a6ab24f3630/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/07b07b18086084260af73684fee40636/transformed/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9c522a73143183d1d0218c12e06b8f23/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/31ace94377d2377c5373e62c2572123e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/9fa2649eaf765149aba82c5fb8fe05ba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/bcd94364abc50d6c9a535b9d3cc93edc/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/bd7c773a8c0917557fc338fbb6754a1a/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/e69005205d4052d65aca9ee856ccfd24/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/cae4b5791ef03757b2f5ac9cda5b968c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/4fadd5c72d023999c19cd7985fb13aa3/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c0c4d22990cfdffde56207ec12d69d77/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/558f195ef8f815f31f9feee732454868/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/0746a053b560116a2b7861c639489f9d/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/3bbc06e4b2849de7f9d261b97fd01ed7/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/e3a5e574d3c644cb8876c64e5458e931/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c73d8016f1c2a2e9ad4fc6833ae61e0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:1-73:12
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:5:5-67:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/3e4d84c1701f9e2275b63f13083e0482/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/3e4d84c1701f9e2275b63f13083e0482/transformed/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/Eysa/.gradle/caches/transforms-3/5587a26b0c7a4237749f663d641ac7b9/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/Eysa/.gradle/caches/transforms-3/5587a26b0c7a4237749f663d641ac7b9/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Eysa/.gradle/caches/transforms-3/308fecb85902ff0a8c6d1a342c37600e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Eysa/.gradle/caches/transforms-3/308fecb85902ff0a8c6d1a342c37600e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/1b8e0c2582c22b3f08859ffea84ede7b/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/1b8e0c2582c22b3f08859ffea84ede7b/transformed/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/8fcf5bf596fabcbb17081cbe34d8af40/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/8fcf5bf596fabcbb17081cbe34d8af40/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/Eysa/.gradle/caches/transforms-3/e6083f63c5a2659a83cd8f3335c7c37a/transformed/jetified-circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/Eysa/.gradle/caches/transforms-3/e6083f63c5a2659a83cd8f3335c7c37a/transformed/jetified-circleimageview-3.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/Eysa/.gradle/caches/transforms-3/fdaf907ce6158316b86ccbd103272c27/transformed/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/Eysa/.gradle/caches/transforms-3/fdaf907ce6158316b86ccbd103272c27/transformed/jetified-volley-1.1.1/AndroidManifest.xml:9:5-20
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:45:5-53:19
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:45:5-53:19
+MERGED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/bd7c773a8c0917557fc338fbb6754a1a/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/bd7c773a8c0917557fc338fbb6754a1a/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/e69005205d4052d65aca9ee856ccfd24/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/e69005205d4052d65aca9ee856ccfd24/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:11:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:9:9-44
+	android:roundIcon
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:12:9-54
+	android:largeHeap
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:10:9-33
+	android:icon
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:6:9-34
+activity#com.example.dn_mart.WishlistHistory
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:16:9-19:25
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:16:19-50
+activity#com.example.dn_mart.OrderHistory
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:20:9-22:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:22:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:21:13-41
+activity#com.example.dn_mart.BarcodeReader
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:23:9-25:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:25:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:24:13-42
+activity#com.example.dn_mart.Splash
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:26:9-34:20
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:28:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:27:13-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.dn_mart.Checkout2
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:35:9-39:15
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:35:19-44
+activity#com.example.dn_mart.Checkout1
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:40:9-42:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:41:13-38
+activity#com.example.dn_mart.Checkout
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:43:9-45:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:44:13-37
+activity#com.example.dn_mart.ViewProducts
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:46:9-48:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:48:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:47:13-41
+activity#com.example.dn_mart.Home
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:49:9-54:55
+	android:hardwareAccelerated
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:52:13-48
+	android:windowSoftInputMode
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:54:13-52
+	android:configChanges
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:51:13-48
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:53:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:50:13-33
+activity#com.example.dn_mart.Login
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:55:9-57:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:57:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:56:13-34
+activity#com.example.dn_mart.signup
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:58:9-60:47
+	android:theme
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:59:13-35
+activity#com.example.dn_mart.MainActivity
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:61:9-50
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:61:19-47
+activity#com.example.dn_mart.Portrait
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:62:9-66:63
+	android:screenOrientation
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:64:13-49
+	android:stateNotNeeded
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:65:13-42
+	android:windowSoftInputMode
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:66:13-60
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:63:13-37
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:68:5-67
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:68:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:69:5-79
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:69:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:71:5-79
+	android:name
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:71:22-76
+uses-sdk
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/ec658c1e41a5d5a9b382bb66b497920d/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/ec658c1e41a5d5a9b382bb66b497920d/transformed/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/3e4d84c1701f9e2275b63f13083e0482/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/3e4d84c1701f9e2275b63f13083e0482/transformed/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/Eysa/.gradle/caches/transforms-3/5587a26b0c7a4237749f663d641ac7b9/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.jd-alexander:LikeButton:0.2.3] /Users/Eysa/.gradle/caches/transforms-3/5587a26b0c7a4237749f663d641ac7b9/transformed/jetified-LikeButton-0.2.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/90d3a83ab63b3fbafd773583db39576f/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/90d3a83ab63b3fbafd773583db39576f/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Eysa/.gradle/caches/transforms-3/308fecb85902ff0a8c6d1a342c37600e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/Eysa/.gradle/caches/transforms-3/308fecb85902ff0a8c6d1a342c37600e/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/a4116182ba35f0c6c6280dff52d1e642/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/a4116182ba35f0c6c6280dff52d1e642/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/1b8e0c2582c22b3f08859ffea84ede7b/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/1b8e0c2582c22b3f08859ffea84ede7b/transformed/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/324f45857cd02ee2d2ce88b8447ee9ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/324f45857cd02ee2d2ce88b8447ee9ab/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/59c76c0c13e2b740a85bb23bb97250e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/59c76c0c13e2b740a85bb23bb97250e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/608b0021c15c9fb4b6a7b9b2ff7367e9/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/608b0021c15c9fb4b6a7b9b2ff7367e9/transformed/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/8fcf5bf596fabcbb17081cbe34d8af40/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/8fcf5bf596fabcbb17081cbe34d8af40/transformed/lifecycle-extensions-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/79f7622d0e831c7b9de33e2e0cdaaea0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/79f7622d0e831c7b9de33e2e0cdaaea0/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/2984b62c5ce5016519714ba06acdfdbf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/2984b62c5ce5016519714ba06acdfdbf/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9e0f9e995c3f03bf0e08dbd39c20657d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9e0f9e995c3f03bf0e08dbd39c20657d/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/Eysa/.gradle/caches/transforms-3/e6083f63c5a2659a83cd8f3335c7c37a/transformed/jetified-circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.1] /Users/Eysa/.gradle/caches/transforms-3/e6083f63c5a2659a83cd8f3335c7c37a/transformed/jetified-circleimageview-3.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] /Users/Eysa/.gradle/caches/transforms-3/fdaf907ce6158316b86ccbd103272c27/transformed/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/Eysa/.gradle/caches/transforms-3/fdaf907ce6158316b86ccbd103272c27/transformed/jetified-volley-1.1.1/AndroidManifest.xml:7:5-43
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/0d42b00c22928e6f291eda8292ecb35a/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/0d42b00c22928e6f291eda8292ecb35a/transformed/jetified-sdp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:19:5-43
+MERGED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:19:5-43
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/eccd43b9d12bc100e542ba79bbe213e4/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] /Users/Eysa/.gradle/caches/transforms-3/eccd43b9d12bc100e542ba79bbe213e4/transformed/jetified-ssp-android-1.0.6/AndroidManifest.xml:7:5-9:41
+MERGED from [it.xabaras.android:recyclerview-swipedecorator:1.2.2] /Users/Eysa/.gradle/caches/transforms-3/001aea97f5df7a39e07b929ddb1494d6/transformed/jetified-recyclerview-swipedecorator-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [it.xabaras.android:recyclerview-swipedecorator:1.2.2] /Users/Eysa/.gradle/caches/transforms-3/001aea97f5df7a39e07b929ddb1494d6/transformed/jetified-recyclerview-swipedecorator-1.2.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/efd44cecc04fcbfd2dfc699ca668cfdf/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/efd44cecc04fcbfd2dfc699ca668cfdf/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/31c074c27c2793e02e17519bf8964e79/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/31c074c27c2793e02e17519bf8964e79/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e2d16c1f6ba7b9dee9f36de36f1ba8ed/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e2d16c1f6ba7b9dee9f36de36f1ba8ed/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/aea15b11356f0bbc50a564378f02bffa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/aea15b11356f0bbc50a564378f02bffa/transformed/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e900da9b54c99120792cf5d92416ef15/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/e900da9b54c99120792cf5d92416ef15/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/a4a58b42a047b920b178d704766f9f27/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/a4a58b42a047b920b178d704766f9f27/transformed/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/323ef09dfe1d4e689f40384edef8076d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/323ef09dfe1d4e689f40384edef8076d/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/5c5b4047522f4f6eade6a78b69af3d0d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/5c5b4047522f4f6eade6a78b69af3d0d/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/7c25f064b7286c2b1c13dcca4389bb0b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/7c25f064b7286c2b1c13dcca4389bb0b/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/18ea637f97eab1d6abe775877f13713b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/18ea637f97eab1d6abe775877f13713b/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/d5e69d9c40365f0afd3d953963be933f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/d5e69d9c40365f0afd3d953963be933f/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/af45bdfb51d1d461e6e5768845a0ea0d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/af45bdfb51d1d461e6e5768845a0ea0d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/bd30eddd213861858ec59c1c3c2121b4/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/bd30eddd213861858ec59c1c3c2121b4/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/ccc9e3a3fba657d34ede22eb212acad2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/ccc9e3a3fba657d34ede22eb212acad2/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/50c6fa630302e3f13f503a6ab24f3630/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/50c6fa630302e3f13f503a6ab24f3630/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/07b07b18086084260af73684fee40636/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/07b07b18086084260af73684fee40636/transformed/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9c522a73143183d1d0218c12e06b8f23/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/9c522a73143183d1d0218c12e06b8f23/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/31ace94377d2377c5373e62c2572123e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/31ace94377d2377c5373e62c2572123e/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/9fa2649eaf765149aba82c5fb8fe05ba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/9fa2649eaf765149aba82c5fb8fe05ba/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/bcd94364abc50d6c9a535b9d3cc93edc/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/bcd94364abc50d6c9a535b9d3cc93edc/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/bd7c773a8c0917557fc338fbb6754a1a/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/Eysa/.gradle/caches/transforms-3/bd7c773a8c0917557fc338fbb6754a1a/transformed/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/e69005205d4052d65aca9ee856ccfd24/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/e69005205d4052d65aca9ee856ccfd24/transformed/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/cae4b5791ef03757b2f5ac9cda5b968c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/cae4b5791ef03757b2f5ac9cda5b968c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/4fadd5c72d023999c19cd7985fb13aa3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/4fadd5c72d023999c19cd7985fb13aa3/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c0c4d22990cfdffde56207ec12d69d77/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c0c4d22990cfdffde56207ec12d69d77/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/558f195ef8f815f31f9feee732454868/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/558f195ef8f815f31f9feee732454868/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/0746a053b560116a2b7861c639489f9d/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/0746a053b560116a2b7861c639489f9d/transformed/jetified-lifecycle-service-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/3bbc06e4b2849de7f9d261b97fd01ed7/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/3bbc06e4b2849de7f9d261b97fd01ed7/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/e3a5e574d3c644cb8876c64e5458e931/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/Eysa/.gradle/caches/transforms-3/e3a5e574d3c644cb8876c64e5458e931/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c73d8016f1c2a2e9ad4fc6833ae61e0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/Eysa/.gradle/caches/transforms-3/c73d8016f1c2a2e9ad4fc6833ae61e0d/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:28:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:39:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:42:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:46:9-52:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:49:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:48:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:50:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:52:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:47:13-74
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79

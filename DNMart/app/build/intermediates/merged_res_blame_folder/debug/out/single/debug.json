@@ -1,0 +1,774 @@
+[
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_loginback.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/loginback.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_bg1.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/bg1.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_shop.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_s5.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/s5.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_checkout2.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_checkout2.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_bottom_animation.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/bottom_animation.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_notifications_black_24dp.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/minus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_view_search_products.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_view_search_products.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_main.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_check.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/check.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_shoprecycleviewlist.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/shoprecycleviewlist.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_round2.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/round2.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_s4.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/s4.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/navigation_mobile_navigation.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_checkout1.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_checkout1.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_lefttoright.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/lefttoright.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_history_list.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/history_list.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_cart_recycleviewlist.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/cart_recycleviewlist.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_round.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/round.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_plus.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/plus.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-v24_round4.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable-v24/round4.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_bounce.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/bounce.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_s2.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/s2.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_homerecycleviewlist.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/homerecycleviewlist.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_aftershoprecycleviewlist.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/aftershoprecycleviewlist.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_recycleviewinvoice.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/recycleviewinvoice.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_logo.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_mixed_anim.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/mixed_anim.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_s3.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/s3.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_blink_anim.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/blink_anim.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_rotate.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/rotate.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_et_bg.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/et_bg.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_home_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/ic_home_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_view_products.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_view_products.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-v24_round3.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable-v24/round3.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_profile.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_view_search_products.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_view_search_products.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_profile.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/profile.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_order_history.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_order_history.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_scan.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/scan.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_minus.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/minus.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_dashboard_black_24dp.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_back.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/back.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_search.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/search.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_checkout.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_zoomout.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/zoomout.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_cart.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/cart.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_ic_home_black_24dp.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_backprimary.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/backprimary.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_delete_sweep.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/delete_sweep.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_wishlist_history.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_wishlist_history.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_fadeout.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_plus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/plus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_zoomin.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/zoomin.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_s1.jpg.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/s1.jpg"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable_strike_through.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/drawable/strike_through.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_wishlist.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/wishlist.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_scan.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/scan.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_pay.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/pay.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_barcode_reader.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_barcode_reader.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/minus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_sample_anim.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/sample_anim.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_cart.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/cart.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_image_icon.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/image_icon.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_pay.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/pay.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_top_animation.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/top_animation.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_fadein.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/fadein.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_backprimary.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/backprimary.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_shop.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/shop.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/minus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_signup.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_after_shop_list.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_after_shop_list.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxxhdpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxxhdpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_home.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_home.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_notifications_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_notifications_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-anydpi-v21_image_icon.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-anydpi-v21/image_icon.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_check.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/check.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_shop.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/shop.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_back.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xhdpi_ic_dashboard_black_24dp.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_dashboard_black_24dp.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_profile.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/profile.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_custom_layout.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/custom_layout.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-xxhdpi_delete_sweep.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-xxhdpi/delete_sweep.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_fragment_cart.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/anim_righttoleft.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/anim/righttoleft.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/menu_bottom_nav_menu.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/layout_activity_login.xml.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/minus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-mdpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-mdpi/minus.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-hdpi_search.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-hdpi/search.png"
+    },
+    {
+        "merged": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/merged_res/debug/drawable-ldpi_minus.png.flat",
+        "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/generated/res/pngs/debug/drawable-ldpi/minus.png"
+    }
+]

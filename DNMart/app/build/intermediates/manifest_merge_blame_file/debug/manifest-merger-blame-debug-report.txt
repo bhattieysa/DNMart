@@ -1,0 +1,212 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dn_mart"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:68:5-67
+11-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:68:22-64
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:69:5-79
+12-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:69:22-76
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:71:5-79
+13-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:71:22-76
+14    <uses-permission android:name="android.permission.CAMERA" /> <!-- Don't require camera, as this requires a rear camera. This allows it to work on the Nexus 7 -->
+14-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:5-65
+14-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:21:22-62
+15    <uses-feature
+15-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:24:5-26:36
+16        android:name="android.hardware.camera"
+16-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:25:9-47
+17        android:required="false" />
+17-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:26:9-33
+18    <uses-feature
+18-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:27:5-29:36
+19        android:name="android.hardware.camera.front"
+19-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:28:9-53
+20        android:required="false" /> <!-- TODO replace above two with next line after Android 4.2 -->
+20-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:29:9-33
+21    <!-- <uses-feature android:name="android.hardware.camera.any"/> -->
+22    <uses-feature
+22-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:32:5-34:36
+23        android:name="android.hardware.camera.autofocus"
+23-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:33:9-57
+24        android:required="false" />
+24-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:34:9-33
+25    <uses-feature
+25-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:35:5-37:36
+26        android:name="android.hardware.camera.flash"
+26-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:36:9-53
+27        android:required="false" />
+27-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:37:9-33
+28    <uses-feature
+28-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:38:5-40:36
+29        android:name="android.hardware.screen.landscape"
+29-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:39:9-57
+30        android:required="false" />
+30-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:40:9-33
+31    <uses-feature
+31-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:41:5-43:36
+32        android:name="android.hardware.wifi"
+32-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:42:9-45
+33        android:required="false" />
+33-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:43:9-33
+34
+35    <application
+35-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:5:5-67:19
+36        android:name="com.example.dn_mart.Singleton"
+36-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:6:9-34
+37        android:allowBackup="true"
+37-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:7:9-35
+38        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+38-->[androidx.core:core:1.1.0] /Users/Eysa/.gradle/caches/transforms-3/7bad7aa25fe3f795afd6446373eae6d6/transformed/core-1.1.0/AndroidManifest.xml:24:18-86
+39        android:debuggable="true"
+40        android:hardwareAccelerated="false"
+40-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:9:9-44
+41        android:icon="@mipmap/ic_launcher"
+41-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:8:9-43
+42        android:label="@string/app_name"
+42-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:11:9-41
+43        android:largeHeap="true"
+43-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:10:9-33
+44        android:roundIcon="@mipmap/ic_launcher_round"
+44-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:12:9-54
+45        android:supportsRtl="true"
+45-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:13:9-35
+46        android:testOnly="true"
+47        android:theme="@style/AppTheme"
+47-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:14:9-40
+48        android:usesCleartextTraffic="true" >
+48-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:15:9-44
+49        <activity
+49-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:16:9-19:25
+50            android:name="com.example.dn_mart.WishlistHistory"
+50-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:16:19-50
+51            android:theme="@style/Noaction" />
+51-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:17:13-44
+52        <activity
+52-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:20:9-22:47
+53            android:name="com.example.dn_mart.OrderHistory"
+53-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:21:13-41
+54            android:theme="@style/Noaction" />
+54-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:22:13-44
+55        <activity
+55-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:23:9-25:47
+56            android:name="com.example.dn_mart.BarcodeReader"
+56-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:24:13-42
+57            android:theme="@style/Noaction" />
+57-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:25:13-44
+58        <activity
+58-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:26:9-34:20
+59            android:name="com.example.dn_mart.Splash"
+59-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:27:13-35
+60            android:theme="@style/Noaction" >
+60-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:28:13-44
+61            <intent-filter>
+61-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:29:13-33:29
+62                <action android:name="android.intent.action.MAIN" />
+62-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:30:17-69
+62-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:30:25-66
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:32:17-77
+64-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:32:27-74
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:35:9-39:15
+68            android:name="com.example.dn_mart.Checkout2"
+68-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:35:19-44
+69            android:theme="@style/Noaction" />
+69-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:37:13-44
+70        <activity
+70-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:40:9-42:47
+71            android:name="com.example.dn_mart.Checkout1"
+71-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:41:13-38
+72            android:theme="@style/Noaction" />
+72-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:42:13-44
+73        <activity
+73-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:43:9-45:47
+74            android:name="com.example.dn_mart.Checkout"
+74-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:44:13-37
+75            android:theme="@style/Noaction" />
+75-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:45:13-44
+76        <activity
+76-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:46:9-48:47
+77            android:name="com.example.dn_mart.ViewProducts"
+77-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:47:13-41
+78            android:theme="@style/Noaction" />
+78-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:48:13-44
+79        <activity
+79-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:49:9-54:55
+80            android:name="com.example.dn_mart.Home"
+80-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:50:13-33
+81            android:configChanges="orientation"
+81-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:51:13-48
+82            android:hardwareAccelerated="false"
+82-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:52:13-48
+83            android:theme="@style/Noaction"
+83-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:53:13-44
+84            android:windowSoftInputMode="adjustPan" />
+84-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:54:13-52
+85        <activity
+85-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:55:9-57:47
+86            android:name="com.example.dn_mart.Login"
+86-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:56:13-34
+87            android:theme="@style/Noaction" />
+87-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:57:13-44
+88        <activity
+88-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:58:9-60:47
+89            android:name="com.example.dn_mart.signup"
+89-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:59:13-35
+90            android:theme="@style/Noaction" />
+90-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:60:13-44
+91        <activity android:name="com.example.dn_mart.MainActivity" />
+91-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:61:9-50
+91-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:61:19-47
+92        <activity
+92-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:62:9-66:63
+93            android:name="com.example.dn_mart.Portrait"
+93-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:63:13-37
+94            android:screenOrientation="portrait"
+94-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:64:13-49
+95            android:stateNotNeeded="true"
+95-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:65:13-42
+96            android:windowSoftInputMode="stateAlwaysHidden" />
+96-->/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/AndroidManifest.xml:66:13-60
+97        <activity
+97-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:46:9-52:63
+98            android:name="com.journeyapps.barcodescanner.CaptureActivity"
+98-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:47:13-74
+99            android:clearTaskOnLaunch="true"
+99-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:48:13-45
+100            android:screenOrientation="sensorLandscape"
+100-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:49:13-56
+101            android:stateNotNeeded="true"
+101-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:50:13-42
+102            android:theme="@style/zxing_CaptureTheme"
+102-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:51:13-54
+103            android:windowSoftInputMode="stateAlwaysHidden" />
+103-->[com.journeyapps:zxing-android-embedded:3.4.0] /Users/Eysa/.gradle/caches/transforms-3/5b5b0d3616bc142d2aa9de3079989d1e/transformed/jetified-zxing-android-embedded-3.4.0/AndroidManifest.xml:52:13-60
+104
+105        <provider
+105-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
+106            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+106-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:24:13-79
+107            android:authorities="com.example.dn_mart.lifecycle-process"
+107-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:25:13-69
+108            android:exported="false"
+108-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:26:13-37
+109            android:multiprocess="true" />
+109-->[androidx.lifecycle:lifecycle-process:2.0.0] /Users/Eysa/.gradle/caches/transforms-3/525bffcdb040e5bd5632edd5b6a1a056/transformed/jetified-lifecycle-process-2.0.0/AndroidManifest.xml:27:13-40
+110    </application>
+111
+112</manifest>

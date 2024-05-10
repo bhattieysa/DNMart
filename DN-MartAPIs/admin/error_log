@@ -1,0 +1,11 @@
+[24-Nov-2020 13:19:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[24-Nov-2020 14:13:33 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[28-Dec-2020 18:04:52 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[06-Jan-2021 00:48:43 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[13-Feb-2021 14:03:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[11-Oct-2021 09:35:32 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[11-Oct-2021 09:35:32 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/trukuafl/eysaazhar.com/DN-Mart/admin/barcodeproducts.php on line 34
+[11-Oct-2021 09:35:32 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trukuafl/eysaazhar.com/DN-Mart/admin/barcodeproducts.php on line 145
+[11-Oct-2021 09:35:37 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trukuafl/eysaazhar.com/DN-Mart/admin/connection.php on line 10
+[11-Oct-2021 09:35:37 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/trukuafl/eysaazhar.com/DN-Mart/admin/viewproducts.php on line 29
+[11-Oct-2021 09:35:37 America/New_York] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/trukuafl/eysaazhar.com/DN-Mart/admin/viewproducts.php on line 145

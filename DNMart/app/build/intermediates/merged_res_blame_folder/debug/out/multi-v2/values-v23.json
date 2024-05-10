@@ -1,0 +1,66 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/Eysa/Downloads/DN-Mart-Complete/DNMart/app/src/main/res/values-v23/styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "0",
+                        "startOffsets": "55",
+                        "endLines": "8",
+                        "endColumns": "8",
+                        "endOffsets": "354"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "7",
+                        "endColumns": "8",
+                        "endOffsets": "349"
+                    }
+                },
+                {
+                    "source": "/Users/Eysa/.gradle/caches/transforms-3/9e0f9e995c3f03bf0e08dbd39c20657d/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "54",
+                        "startColumns": "4",
+                        "startOffsets": "3706",
+                        "endLines": "56",
+                        "endColumns": "12",
+                        "endOffsets": "3851"
+                    }
+                },
+                {
+                    "source": "/Users/Eysa/.gradle/caches/transforms-3/90d3a83ab63b3fbafd773583db39576f/transformed/appcompat-1.1.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1371,2267,2386,2513,2618,2842,2957,3064,3177",
+                        "endLines": "2,3,4,5,19,33,34,35,36,40,41,42,43,47",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1366,2262,2381,2508,2613,2837,2952,3059,3172,3402"
+                    },
+                    "to": {
+                        "startLines": "8,9,10,11,12,26,40,41,42,43,47,48,49,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "354,489,624,699,786,1670,2566,2685,2812,2917,3141,3256,3363,3476",
+                        "endLines": "8,9,10,11,25,39,40,41,42,46,47,48,49,53",
+                        "endColumns": "134,134,74,86,12,12,118,126,104,12,114,106,112,12",
+                        "endOffsets": "484,619,694,781,1665,2561,2680,2807,2912,3136,3251,3358,3471,3701"
+                    }
+                }
+            ]
+        }
+    ]
+}
